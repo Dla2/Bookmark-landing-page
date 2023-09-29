@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Link](https://github.com/Dla2/Bookmark-landing-page.git)
-- Live Site URL: [Live Link]([https://your-live-site-url.com](https://bookmark-home-page.netlify.app/))
+- Live Site URL: [Live Link](https://bookmark-home-page.netlify.app/)
 
 ### Built with
 
