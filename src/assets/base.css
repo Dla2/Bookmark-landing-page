@@ -1,0 +1,23 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  /* Primary Colour */
+  --Soft-Blue: hsl(231, 69%, 60%);
+  --Soft-Red: hsl(0, 94%, 66%);
+  /* Neutral Colors */
+  --Grayish-Blue: hsl(229, 8%, 60%);
+  --Very-Dark-Blue: hsl(229, 31%, 21%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Rubik", sans-serif;
+}
